@@ -1,6 +1,6 @@
 ---
 id: 352
-title: "..."
+title: "How to get through Mock Jungle #1 - Low Hanging Fruit"
 perex: |
     ...
 
